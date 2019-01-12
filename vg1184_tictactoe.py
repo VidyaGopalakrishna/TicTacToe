@@ -1,7 +1,4 @@
-# Vidya Gopalakrishna
-# VG 1184
-# CS-UY 1114
-# Final project
+
 
 import turtle
 import time
